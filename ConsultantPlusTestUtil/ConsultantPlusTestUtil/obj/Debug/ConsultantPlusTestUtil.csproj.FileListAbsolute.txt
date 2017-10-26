@@ -1,0 +1,6 @@
+D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\ConsultantPlusTestUtil.exe.config
+D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\ConsultantPlusTestUtil.exe
+D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\ConsultantPlusTestUtil.pdb
+D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.csprojResolveAssemblyReference.cache
+D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.exe
+D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.pdb
