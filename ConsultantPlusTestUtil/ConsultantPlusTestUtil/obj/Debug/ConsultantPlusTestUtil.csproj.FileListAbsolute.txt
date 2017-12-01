@@ -4,3 +4,9 @@ D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\Co
 D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.csprojResolveAssemblyReference.cache
 D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.exe
 D:\Code\C#\OlgaBebebe\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.pdb
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\ConsultantPlusTestUtil.exe.config
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.pdb
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTestUtil\ConsultantPlusTestUtil\obj\Debug\ConsultantPlusTestUtil.csprojResolveAssemblyReference.cache
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\ConsultantPlusTestUtil.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTestUtil\ConsultantPlusTestUtil\bin\Debug\ConsultantPlusTestUtil.pdb

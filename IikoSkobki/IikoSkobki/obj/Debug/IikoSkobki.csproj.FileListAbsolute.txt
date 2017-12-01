@@ -1,0 +1,6 @@
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoSkobki\IikoSkobki\bin\Debug\IikoSkobki.exe.config
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoSkobki\IikoSkobki\bin\Debug\IikoSkobki.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoSkobki\IikoSkobki\bin\Debug\IikoSkobki.pdb
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoSkobki\IikoSkobki\obj\Debug\IikoSkobki.csprojResolveAssemblyReference.cache
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoSkobki\IikoSkobki\obj\Debug\IikoSkobki.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoSkobki\IikoSkobki\obj\Debug\IikoSkobki.pdb

@@ -1,0 +1,6 @@
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoTreeWalk\IikoTreeWalk\bin\Debug\IikoTreeWalk.exe.config
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoTreeWalk\IikoTreeWalk\obj\Debug\IikoTreeWalk.csprojResolveAssemblyReference.cache
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoTreeWalk\IikoTreeWalk\bin\Debug\IikoTreeWalk.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoTreeWalk\IikoTreeWalk\bin\Debug\IikoTreeWalk.pdb
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoTreeWalk\IikoTreeWalk\obj\Debug\IikoTreeWalk.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\IikoTreeWalk\IikoTreeWalk\obj\Debug\IikoTreeWalk.pdb

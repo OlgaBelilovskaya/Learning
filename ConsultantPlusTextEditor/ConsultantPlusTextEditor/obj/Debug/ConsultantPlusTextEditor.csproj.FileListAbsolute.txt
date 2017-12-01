@@ -1,0 +1,6 @@
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTextEditor\ConsultantPlusTextEditor\bin\Debug\ConsultantPlusTextEditor.exe.config
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTextEditor\ConsultantPlusTextEditor\bin\Debug\ConsultantPlusTextEditor.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTextEditor\ConsultantPlusTextEditor\bin\Debug\ConsultantPlusTextEditor.pdb
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTextEditor\ConsultantPlusTextEditor\obj\Debug\ConsultantPlusTextEditor.csprojResolveAssemblyReference.cache
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTextEditor\ConsultantPlusTextEditor\obj\Debug\ConsultantPlusTextEditor.exe
+C:\Olka_PrivetNewJob\GitHub\Learning\ConsultantPlusTextEditor\ConsultantPlusTextEditor\obj\Debug\ConsultantPlusTextEditor.pdb
